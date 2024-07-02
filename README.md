@@ -64,7 +64,7 @@ conda activate DDP_threading
 
 
 ```bash
-python src/COHEN_Chlomite_double_programmation.py -p data/[filename].pdb -f data/[filename].fast -d data/dope.txt (with the -g option we can change the gap value).
+python src/COHEN_Chlomite_double_programmation.py -p data/[filename].pdb -f data/[filename].fasta -d data/dope.txt (with the -g option we can change the gap value).
 ```
 
 
