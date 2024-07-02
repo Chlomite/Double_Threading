@@ -1,0 +1,12 @@
+name: DDP_threading
+
+channels:
+  - defaults
+  - bioconda
+  - conda-forge
+dependencies:
+  - python=3.10
+  # matrix manipulation
+  - numpy
+  # FASTA and PDB files manipulation
+  - biopython
